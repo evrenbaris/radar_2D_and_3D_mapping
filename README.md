@@ -15,5 +15,5 @@ This project simulates a radar system that visualizes targets in 2D and 3D space
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/radar-map-visualization.git
+   git clone https://github.com/evrenbaris/radar-map-visualization.git
    cd radar-map-visualization
